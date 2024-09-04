@@ -6,7 +6,7 @@ Here's a README file for your Tic-Tac-Toe project, complete with emojis:
 
 Welcome to the **Tic-Tac-Toe Web Application**! This project is a fun and interactive implementation of the classic Tic-Tac-Toe game. Built using HTML, CSS, and JavaScript, it allows players to enjoy the game either against another person or challenge the computer. 
 
-
+# Live Link :- https://jovial-duckanoo-d054c3.netlify.app
 
 ## 🚀 Features
 
@@ -23,6 +23,7 @@ Welcome to the **Tic-Tac-Toe Web Application**! This project is a fun and intera
 - **JavaScript:** Game logic and interactivity, including AI opponent.
 
 ## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/722e12d6-fa93-4008-9348-1afa5a34e00d)
 
 
 
