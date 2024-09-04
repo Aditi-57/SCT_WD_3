@@ -1,7 +1,3 @@
-Here's a README file for your Tic-Tac-Toe project, complete with emojis:
-
----
-
 # 🎮 Tic-Tac-Toe Web Application
 
 Welcome to the **Tic-Tac-Toe Web Application**! This project is a fun and interactive implementation of the classic Tic-Tac-Toe game. Built using HTML, CSS, and JavaScript, it allows players to enjoy the game either against another person or challenge the computer. 
